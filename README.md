@@ -1,6 +1,9 @@
-# ServerWatchDog 的资源文件
+<div style="text-align:center">
+  <img src="./icon/old/v1/main.png" width="128">
+  <p>ServerWatchDog Project</p>
+</div>
 
-![icon](./icon/stable.png)
+# ServerWatchDog 的资源文件
 
 ## 说明
 
